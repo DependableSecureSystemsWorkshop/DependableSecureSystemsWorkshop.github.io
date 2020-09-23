@@ -3,7 +3,6 @@ layout: page
 title: Organisers
 permalink: /organization/
 ---
-## **Organizers**
 <ul>
 <li><a href="https://www.kth.se/profile/mabecker">Matthias Becker</a>, KTH Royal Institute of Technology</li>
 <li><a href="https://www.kth.se/profile/elenatro">Elena Troubitsyna</a>, KTH Royal Institute of Technology</li>
