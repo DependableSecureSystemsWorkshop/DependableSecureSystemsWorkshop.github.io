@@ -5,7 +5,7 @@ permalink: /speakers/
 ---
 # Keynote Speaker
 
-To be announced soon!
+* Michael Paulitsch - Intel Labs, Germany
 
 # Invited Speakers
 
