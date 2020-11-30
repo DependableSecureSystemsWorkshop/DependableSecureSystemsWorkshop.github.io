@@ -11,6 +11,11 @@ permalink: /schedule/
           <td><b>Welcome</b></td>
         </tr>
         <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
+        </tr>
+        <tr>
             <td rowspan=2>09:00 – 09:45</td>
             <td><b>Keynote: Title will be announced shortly</b></td>
         </tr>
@@ -18,8 +23,18 @@ permalink: /schedule/
             <td>Michael Paulitsch - Intel Labs, Germany</td>
         </tr>
         <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
+        </tr>
+        <tr>
           <td>09:45 – 10:00</td>
           <td><b>Break and informal discussion</b></td>
+        </tr>
+        <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
         </tr>
         <tr>
             <td rowspan=2>10:00 – 10:25</td>
@@ -29,6 +44,11 @@ permalink: /schedule/
             <td>Aneta Vulgarakis - Senior Research Manager at Ericsson, Sweden</td>
         </tr>
         <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
+        </tr>
+        <tr>
             <td rowspan=2>10:25 – 10:50</td>
             <td><b>Title will be announced shortly</b></td>
         </tr>
@@ -36,8 +56,18 @@ permalink: /schedule/
             <td>Peter Ulbrich - Professor at TU Dortmund, Germany</td>
         </tr>
         <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
+        </tr>
+        <tr>
           <td>10:50 - 11:00</td>
           <td><b>Break and informal discussion</b></td>
+        </tr>
+        <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
         </tr>
         <tr>
             <td rowspan=2>11:00 – 11:25</td>
@@ -47,6 +77,11 @@ permalink: /schedule/
             <td>Mattias Nyberg - Expert Engineer at Scania and Adjunct Professor at KTH, Sweden</td>
         </tr>
         <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
+        </tr>
+        <tr>
             <td rowspan=2>11:25 – 11:50</td>
             <td><b>Programming Mixed Critical and Weakly Hard Real-Time Systems: It's about time</b></td>
         </tr>
@@ -54,11 +89,21 @@ permalink: /schedule/
             <td>David Broman - Associate Professor at KTH, Sweden</td>
         </tr>
         <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
+        </tr>
+        <tr>
             <td rowspan=2>11:50 – 12:15</td>
             <td><b>Title will be announced shortly</b></td>
         </tr>
         <tr>
             <td>John Lundbäck - CEO, Arcticus Systems AB, Sweden</td>
+        </tr>
+        <tr>
+          <td colspan=2>
+          ---------------------------------------------------------------------------------------------------------------
+          </td>
         </tr>
         <tr>
           <td>12:15 - 12:30</td>
