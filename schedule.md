@@ -8,7 +8,6 @@ permalink: /schedule/
     <tbody>
         <tr>
           <td>08:55 – 09:00</td>
-          <td></td>
           <td><b>Welcome</b></td>
         </tr>
         <tr>
