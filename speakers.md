@@ -3,14 +3,37 @@ layout: page
 title: Speakers
 permalink: /speakers/
 ---
-# Keynote Speaker
 
-* Michael Paulitsch - Intel Labs, Germany
+<h3>Keynote Speaker:</h3>
 
-# Invited Speakers
+<h4>Michael Paulitsch - Intel Labs, Germany</h4>
+<p>
+<b>Biography:</b> Will follow soon!
+</p>
 
-* John Lundbäck - CEO, Arcticus Systems AB, Sweden
-* David Broman - Associate Professor at KTH, Sweden
-* Peter Ulbrich - Professor at TU Dortmund, Germany
-* Aneta Vulgarakis - Senior Research Manager at Ericsson, Sweden
-* Mattias Nyberg - Expert Engineer at Scania and Adjunct Professor at KTH, Sweden
+<h3>Invited Speakers:</h3>
+
+<h4>Aneta Vulgarakis - Senior Research Manager at Ericsson, Sweden</h4>
+<p>
+<b>Biography:</b> Aneta Vulgarakis Feljan is a Research Leader in Artificial Intelligence at Ericsson Research. Her main interest are AI-based Cyber Physical Systems, and the combination of model-driven and data-driven AI. She is specialized in software architectures, knowledge representation and reasoning, automated planning, behavioral modeling and analysis, and application of these to telecom and non-telecom use cases. Aneta is the co-author of 40+ refereed publications on software engineering and AI topics, and a co-inventor of 50+ patent families.  Her paper “A Component Model for Control-Intensive Distributed Embedded Systems” has been awarded the ICSA 2018 Most Influential Paper Award. She is a Program Committee member and referee for several international conferences and journals. Before joining Ericsson Research, Aneta was a scientist at ABB Corporate Research. Her PhD in Computer Science from Mälardalen University focused on component-based modelling and formal analysis of real-time embedded systems.
+</p>
+
+<h4>David Broman - Associate Professor at KTH, Sweden</h4>
+<p>
+<b>Biography:</b> David Broman is an Associate Professor at the KTH Royal Institute of Technology, Associate Director Operations for KTH Digital Futures, and CEO of Consecio AB. Between 2012 and 2014, he was a visiting scholar at the University of California, Berkeley, where he also was employed as a part time researcher until 2016. David received his Ph.D. in Computer Science in 2010 from Linköping University, Sweden, and was appointed Assistant Professor there in 2011. He earned a Docent degree in Computer Science in 2015. His research focuses on model-based design of time-aware systems, including cyber-physical systems, embedded systems, and real-time systems. In particular, he is interested in programming and modeling language theory, formal semantics, compilers, and machine learning. David has received an outstanding paper award at RTAS (co-authored 2018), a best paper award in the journal Software & Systems Modeling (SoSyM award 2018), the award as teacher of the year, selected by the student union at KTH (2017), the best paper award at IoTDI (co-authored 2017), awarded the Swedish Foundation for Strategic Research's individual grant for future research leaders (2016), and the best paper presentation award at CSSE&T (2010). He has worked several years within the software industry, co-founded three companies, co-founded the EOOLT workshop series, and is a member of IFIP WG 2.4, Modelica Association, a senior member of IEEE, and a board member of Forsknings och Framsteg.
+</p>
+
+<h4>Peter Ulbrich - Professor at TU Dortmund, Germany</h4>
+<p>
+<b>Biography:</b> Will follow soon!
+</p>
+
+<h4>John Lundbäck - CEO, Arcticus Systems AB, Sweden</h4>
+<p>
+<b>Biography:</b> Will follow soon!
+</p>
+
+<h4>Mattias Nyberg - Expert Engineer at Scania and Adjunct Professor at KTH, Sweden</h4>
+<p>
+<b>Biography:</b> Will follow soon!
+</p>
