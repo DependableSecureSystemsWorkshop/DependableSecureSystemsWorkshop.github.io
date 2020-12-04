@@ -71,7 +71,7 @@ permalink: /schedule/
         </tr>
         <tr>
             <td rowspan=2>11:00 – 11:25</td>
-            <td><b>Title will be announced shortly</b></td>
+            <td><b>Scania’s Scalable Approach to Ensuring Safety and Security of Vehicles</b></td>
         </tr>
         <tr>
             <td>Mattias Nyberg - Expert Engineer at Scania and Adjunct Professor at KTH, Sweden</td>
