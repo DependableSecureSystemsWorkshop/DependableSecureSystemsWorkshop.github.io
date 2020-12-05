@@ -30,7 +30,11 @@ permalink: /speakers/
 
 <h4><b>John Lundbäck - CEO, Arcticus Systems AB, Sweden</b></h4>
 <p>
-<b>Biography:</b> Will follow soon!
+<b>Biography:</b> John Lundbäck has been at Arcticus Systems for more than 20 years and is the principle architect for the Rubus Product Line toolset. He has received his education at KTH Royal Technology Institute and Stockholm University.
+He currently holds the position of CEO at Arcticus Systems since 2018.
+He is experienced in a wide range of computing and computer-based systems, including software engineering, real-time, programming languages, compilers, operating systems as well as various real-time application domains from low-level assembly to complex multi-tasking software running in safety critical environments.
+He has responsibility for managing technical research projects at Arcticus Systems and is the Senior Technical Consultant.
+He has co-authored over 15 research publications in international peer-reviewed journals, conferences and workshops.
 </p>
 
 <h4><b>Mattias Nyberg - Expert Engineer at Scania and Adjunct Professor at KTH, Sweden</b></h4>

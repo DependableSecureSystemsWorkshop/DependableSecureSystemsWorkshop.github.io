@@ -95,7 +95,7 @@ permalink: /schedule/
         </tr>
         <tr>
             <td rowspan=2>11:50 – 12:15</td>
-            <td><b>Title will be announced shortly</b></td>
+            <td><b>Rubus, Practical Experiences in Analyzable Model-Driven Development of Safety-Critical Systems</b></td>
         </tr>
         <tr>
             <td>John Lundbäck - CEO, Arcticus Systems AB, Sweden</td>
