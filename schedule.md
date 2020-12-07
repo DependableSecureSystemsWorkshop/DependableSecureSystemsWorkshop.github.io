@@ -50,7 +50,7 @@ permalink: /schedule/
         </tr>
         <tr>
             <td rowspan=2>10:25 – 10:50</td>
-            <td><b>Title will be announced shortly</b></td>
+            <td><b>Static Response-Time Analysis of Complex Real-Time Systems: Time for Rethinking?</b></td>
         </tr>
         <tr>
             <td>Peter Ulbrich - Professor at TU Dortmund, Germany</td>
