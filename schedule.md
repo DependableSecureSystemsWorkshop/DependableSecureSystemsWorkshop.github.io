@@ -17,7 +17,7 @@ permalink: /schedule/
         </tr>
         <tr>
             <td rowspan=2>09:00 – 09:45</td>
-            <td><b>Keynote: Title will be announced shortly</b></td>
+            <td><b>Keynote: Multi-Level Monitoring Approaches Towards Safe Use of Neural Network</b></td>
         </tr>
         <tr>
             <td>Michael Paulitsch - Intel Labs, Germany</td>

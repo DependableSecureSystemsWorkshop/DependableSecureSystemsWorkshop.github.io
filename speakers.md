@@ -8,7 +8,16 @@ permalink: /speakers/
 
 <h4><b>Michael Paulitsch - Intel Labs, Germany</b></h4>
 <p>
-<b>Biography:</b> Will follow soon!
+<b>Biography:</b> Michael brings 20 years of work theoretical and applied research and technology work at university and different industries (aerospace, railway, automotive) in dependability of electronic architectures of cyber physical systems in safety-critical and real-time systems including security aspects of all types.<br>
+
+Michael fills the role of a Dependability Systems Architect (Principal Engineer) at Intel, Munich, Germany, as part Intel Labs Europe, since 2018. He pursues novel safety monitoring approaches at different system levels (chip, platform, application) and evaluates and ensures safe and dependable use of neural network models in safety-critical systems. <br>
+
+From 2014 to 2018, he has been senior engineering manager and product line manager for Vital Platform (safety-critical computing and communication platform with security requirements) at Thales Ground Transportation Systems in Vienna, Austria. In these roles he has been responsible for the execution and strategy of as well as research for this vital platform.
+Before this, Michael has been Senior Expert of “Dependable Computing and Networks” as well as Scientific Director at Airbus corporate research in Munich, Germany. There his work focused on dependable embedded and secure embedded computing and networks. From 2003 to 2008, he worked at Honeywell Aerospace in the U.S. on software and electronic platforms in the area of business, regional, air transport, and human space avionics and engine control electronics. Michael has also been assistant professor at Technische Universitaet Wien, Vienna, Austria, 1997 to 2003. <br>
+
+Michael published 50+ scientific papers in his area of expertise, participates in multiple international scientific conference committees and holds 30+ patents. He holds a doctoral degree in technical sciences from the Vienna University of Technology, Vienna, Austria with emphasis on dependable embedded systems and a doctoral degree in economics and social sciences with emphasis on production management aspects. He also visited University of Illinois at Urbana-Champaign. <br>
+
+Michael enjoys his spare time with sports like rock climbing, cycling, hiking, ski touring, and running.
 </p>
 
 <h3><b>Invited Speakers:</b></h3>
