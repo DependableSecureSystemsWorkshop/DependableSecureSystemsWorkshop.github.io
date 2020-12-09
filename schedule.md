@@ -53,7 +53,7 @@ permalink: /schedule/
             <td><b>Static Response-Time Analysis of Complex Real-Time Systems: Time for Rethinking?</b></td>
         </tr>
         <tr>
-            <td>Peter Ulbrich - Professor at TU Dortmund, Germany</td>
+            <td>Peter Ulbrich - Professor at TU Dortmund, Germany <a href="files/Ulbrich.pdf">[Slides]</a></td>
         </tr>
         <tr>
           <td colspan=2>
