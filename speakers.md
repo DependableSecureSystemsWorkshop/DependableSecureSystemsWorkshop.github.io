@@ -34,7 +34,9 @@ Michael enjoys his spare time with sports like rock climbing, cycling, hiking, s
 
 <h4><b>Peter Ulbrich - Professor at TU Dortmund, Germany</b></h4>
 <p>
-<b>Biography:</b> Will follow soon!
+<b>Biography:</b> Peter Ulbrich (born 1980) is a professor at the Technische Universität Dortmund and head of the "System Software Group". His research and teaching activities are in the field of system software for embedded systems, focusing on dependability, system analysis, and design of adaptive cyber-physical systems.
+He received his diploma in computer science from  Friedrich-Alexander University Erlangen-Nuremberg (FAU) in 2007. Unto 2010 he worked on the research project "Component Architecture for Safety-critical Embedded Systems" at Siemens Corporate Research, received his Ph.D. from FAU in 2014, and till 2020 he led the research group "Real-Time Systems" as a post-doctoral fellow. In 2017, Peter Ulbrich was a guest scientist at North Carolina State University, where he researched deep learning for scheduling in real-time systems.
+Peter Ulbrich is a member of IEEE and ACM and is active in the national and international OS community. Since 2020 he is the spokesman of the Special Interest Group Operating Systems of the Gesellschaft für Informatik (GI).
 </p>
 
 <h4><b>John Lundbäck - CEO, Arcticus Systems AB, Sweden</b></h4>
