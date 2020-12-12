@@ -41,7 +41,7 @@ permalink: /schedule/
             <td><b>AI for zero-touch systems with a focus on trustworthiness</b></td>
         </tr>
         <tr>
-            <td>Aneta Vulgarakis - Senior Research Manager at Ericsson, Sweden</td>
+            <td>Aneta Vulgarakis - Senior Research Manager at Ericsson, Sweden <a href="https://dependablesecuresystemsworkshop.github.io/files/vulgarakis-castor-workshop-dec-2020.pdf" target="_blank"><b>[Slides]</b></a></td>
         </tr>
         <tr>
           <td colspan=2>
@@ -53,7 +53,7 @@ permalink: /schedule/
             <td><b>Static Response-Time Analysis of Complex Real-Time Systems: Time for Rethinking?</b></td>
         </tr>
         <tr>
-            <td>Peter Ulbrich - Professor at TU Dortmund, Germany <a href="https://dependablesecuresystemsworkshop.github.io/files/Ulbrich.pdf" target="_blank"><b>[Slides]</b></a></td>
+            <td>Peter Ulbrich - Professor at TU Dortmund, Germany <a href="https://dependablesecuresystemsworkshop.github.io/files/ulbrich-castor-workshop-dec-2020.pdf" target="_blank"><b>[Slides]</b></a></td>
         </tr>
         <tr>
           <td colspan=2>
@@ -86,7 +86,7 @@ permalink: /schedule/
             <td><b>Programming Mixed Critical and Weakly Hard Real-Time Systems: It's about time</b></td>
         </tr>
         <tr>
-            <td>David Broman - Associate Professor at KTH, Sweden</td>
+            <td>David Broman - Associate Professor at KTH, Sweden <a href="https://dependablesecuresystemsworkshop.github.io/files/broman-castor-workshop-dec-2020.pdf" target="_blank"><b>[Slides]</b></a></td>
         </tr>
         <tr>
           <td colspan=2>
